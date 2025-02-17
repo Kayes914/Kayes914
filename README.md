@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mahmudullah Kayes
 
-I am a frontend Developer. if you have any work for me please DM me, 
+I am a front-end Developer. if you have any work for me please DM me, 
 
 here is some of the work I have done.
 
